@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\bin\Debug\net7.0\Binary Addition.exe
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\bin\Debug\net7.0\Binary Addition.deps.json
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\bin\Debug\net7.0\Binary Addition.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\bin\Debug\net7.0\Binary Addition.dll
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\bin\Debug\net7.0\Binary Addition.pdb
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\Binary Addition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\Binary Addition.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\Binary Addition.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\Binary Addition.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\Binary Addition.dll
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\refint\Binary Addition.dll
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\Binary Addition.pdb
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\Binary Addition.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Binary Addition\Binary Addition\obj\Debug\net7.0\ref\Binary Addition.dll
